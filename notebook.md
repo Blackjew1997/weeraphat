@@ -1,5 +1,5 @@
 # test trepo
 
-##editing the file
+## editing the file
 
 Its mark down file in this repository.
